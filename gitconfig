@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = emmanuel_adam@orange.fr
+	name = emmanuel adam
